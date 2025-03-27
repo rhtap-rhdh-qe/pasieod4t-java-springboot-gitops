@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: pasieod4t-java-springboot-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/pasieod4t-java-springboot-gitops
